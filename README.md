@@ -8,6 +8,8 @@
 ## 第八届 中国软件杯
 
 - [基于移动互联网的智能车载APP~取名字要霸气](https://github.com/Xxianglei/Intelligent-Vehicle-App) 
+- [网店工商信息图片文字提取](https://github.com/majixiao/Ocr)
+
 ## 第七届 中国软件杯
 
 - [图片认知分类系统~犇跑吧LMY](https://github.com/linyuanbin/SoftwareCup)
@@ -25,4 +27,4 @@
 
 #### 收录方式
 
-> 直接发PullRequest，或则你可以通过邮件：1767925069@qq.com 发送给我们你的项目地址，以及作品题目，我们会及时更新到中国软件杯作品集。 工作室成员可以直接直接联系数据库工作室负责人。
+> 直接发PullRequest，或则你可以通过邮件：1767925069@qq.com 发送给我们你的项目地址，以及作品题目，我们会及时更新到中国软件杯作品集。 工作室成员可以直接直接联系数据库工作室负责人。希望大家维护好这个作品集。
